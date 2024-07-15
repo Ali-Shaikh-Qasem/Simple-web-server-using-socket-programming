@@ -1,1 +1,1 @@
-# Simple-web-server-using-socket-programming
+This project is an application of computer netwroks course. It contains two parts, the first part is a simple client server application using UDP coneection. The second part is a simple web server built using socket programming.
